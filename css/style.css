@@ -1,0 +1,32 @@
+body {
+    background: #EBF4FF;
+}
+
+.logo {
+    height: 60px;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.vid > img {
+    width: 100%;
+}
+
+.des > h2, p {
+    text-align: center;
+}
+
+.inside {
+    position: absolute;
+    top: 300px;
+    left: -100px;
+    width: 300px;
+    border: #EBF4FF 15px solid;
+    border-radius: 10px;
+}
+
+.info >h2, p {
+    text-align: left;
+}
