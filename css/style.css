@@ -30,3 +30,43 @@ body {
 .info >h2, p {
     text-align: left;
 }
+
+.courses>h2, p{
+    text-align: center;
+}
+.card {
+    border-radius: 15px !important;
+}
+.category {
+    border-radius: 10px;
+    background: #EBF4FF;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 0;
+    font-size: 10px;
+}
+.info>span {
+    font-size: 12px !important;
+}
+
+.rating {
+
+    font-size: 12px !important;
+    color: blue;
+}
+.view i{
+    font-size: 25px;
+    background: #EBF4FF;
+    border-radius: 50%;
+    padding: 10px;
+    color: black;
+    transition: 2s;
+}
+
+.view:hover i{
+    background: blue;
+    border-radius: 50%;
+    padding: 10px;
+    color: #fff;
+}
